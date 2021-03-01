@@ -56,4 +56,7 @@ body{
     background:linear-gradient(#90ee90 0%,#E10600 100%);
     width: 100%;
 }
-    
+#mw{
+    font-family: French Script MT;
+    font-size: 30px;
+}   
